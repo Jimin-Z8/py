@@ -1,3 +1,7 @@
+
+# In notepad++, Run | Run ..., add a command - python c:\codes\Jimin-Z8\py\nyt_one.py -f "$(FULL_CURRENT_PATH)"
+
+
 import codecs
 import os, sys
 import glob
